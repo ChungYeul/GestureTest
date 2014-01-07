@@ -21,6 +21,7 @@
 		F8456E93187B02A30001BECA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8456E75187B02A30001BECA /* UIKit.framework */; };
 		F8456E9B187B02A30001BECA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F8456E99187B02A30001BECA /* InfoPlist.strings */; };
 		F8456E9D187B02A30001BECA /* GestureTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F8456E9C187B02A30001BECA /* GestureTestTests.m */; };
+		F8456EA7187B02AB0001BECA /* football.png in Resources */ = {isa = PBXBuildFile; fileRef = F8456EA6187B02AB0001BECA /* football.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		F8456E98187B02A30001BECA /* GestureTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GestureTestTests-Info.plist"; sourceTree = "<group>"; };
 		F8456E9A187B02A30001BECA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F8456E9C187B02A30001BECA /* GestureTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GestureTestTests.m; sourceTree = "<group>"; };
+		F8456EA6187B02AB0001BECA /* football.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = football.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		F8456E77187B02A30001BECA /* GestureTest */ = {
 			isa = PBXGroup;
 			children = (
+				F8456EA6187B02AB0001BECA /* football.png */,
 				F8456E80187B02A30001BECA /* AppDelegate.h */,
 				F8456E81187B02A30001BECA /* AppDelegate.m */,
 				F8456E83187B02A30001BECA /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				F8456E8A187B02A30001BECA /* Images.xcassets in Resources */,
 				F8456E7C187B02A30001BECA /* InfoPlist.strings in Resources */,
+				F8456EA7187B02AB0001BECA /* football.png in Resources */,
 				F8456E85187B02A30001BECA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
